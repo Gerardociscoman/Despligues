@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#test
 # Verificar que se haya pasado un parámetro
 if [ -z "$1" ]; then
     echo "Uso: $0 <ruta_carpeta> [días]"
