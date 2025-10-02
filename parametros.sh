@@ -1,6 +1,8 @@
 #!/bin/bash
 
-+x
+ENVIRONMENT=$1
+VERSION=$2
+
 echo "Ejecutando deploy con variables..."
 echo "Ambiente: $ENVIRONMENT"
 echo "Versión: $APP_VERSION"
