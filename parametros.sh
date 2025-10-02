@@ -4,4 +4,4 @@ echo "Ambiente: $ENVIRONMENT"
 echo "Versión: $APP_VERSION"
 
 # Llamar al script del repo
-bash scripts/deploy.sh "$ENVIRONMENT" "$APP_VERSION"
+#bash scripts/deploy.sh "$ENVIRONMENT" "$APP_VERSION"
